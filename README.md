@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yash Talreja.
-- 👀 I’m interested in building functional and beatufil Front-end components.
-- 🌱 I’m currently learning React (MERN Stack) to become a full-stack developer.
-- 💞️ I’m looking to collaborate on the front-end part of any full-stack projects which you're currently building.
+- 👀 I’m interested in building end-to-end full-stack applications.
+- 🌱 I’m currently learning MERN/Next.js stack along with Web3 to develop expertise.
+- 💞️ I’m looking for Full-Stack Dev roles.
 - 📫 You can reach me at yasheecool@gmail.com, always up to collaborate!
 - ⚡ Fun fact: You'll usually find me talking to people when not coding 🤪
 
