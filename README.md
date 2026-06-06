@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Yash Talreja.
-- 🌱 I’m currently learning to build full-stack products end-to-end **(design to deployment)** - a skill that is really essential in current fast-paced world.
+- 🌱 I’m a full-stack dev working with Next.js, TypeScript, Supabase (and other modern libraries).
 - 💞️ I’m looking for Full-Stack Dev roles.
-- 📫 You can reach me at yasheecool@gmail.com, always up to collaborate!
-- ⚡ Fun fact: You'll usually find me talking to people when not coding 🤪
+- 📫 You can reach me at yashtalrejawork@gmail.com, always up to collaborate!
 
 <!---
 yasheecool/yasheecool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
